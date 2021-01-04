@@ -1,0 +1,5 @@
+D:\dockertest\appNetCore\bin\Release\net5.0\publish\NetCore.DockerTest.exe
+D:\dockertest\appNetCore\bin\Release\net5.0\publish\NetCore.DockerTest.dll
+D:\dockertest\appNetCore\bin\Release\net5.0\publish\NetCore.DockerTest.deps.json
+D:\dockertest\appNetCore\bin\Release\net5.0\publish\NetCore.DockerTest.runtimeconfig.json
+D:\dockertest\appNetCore\bin\Release\net5.0\publish\NetCore.DockerTest.pdb

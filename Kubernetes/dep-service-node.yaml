@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: happy-hello-world-node
+spec:
+  selector:
+    matchLabels:
+      app: happylittleapp
+  template:
+    metadata:
+      labels:
+        app: happylittleapp
+    spec:
+      containers:
+      - name: nodeservice
+        image: mynodeservice
+        imagePullPolicy: IfNotPresent
+        ports:
+          - containerPort: 1111
+        resources:
+          limits:
+            cpu: 1000m
+            memory: 1Gi
+          requests:
+            cpu: 500m
+            memory: 1Gi
+

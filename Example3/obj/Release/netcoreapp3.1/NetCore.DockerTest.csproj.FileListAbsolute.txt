@@ -1,0 +1,13 @@
+D:\dockertest\AppNetCore\bin\Release\netcoreapp3.1\NetCore.DockerTest.exe
+D:\dockertest\AppNetCore\bin\Release\netcoreapp3.1\NetCore.DockerTest.deps.json
+D:\dockertest\AppNetCore\bin\Release\netcoreapp3.1\NetCore.DockerTest.runtimeconfig.json
+D:\dockertest\AppNetCore\bin\Release\netcoreapp3.1\NetCore.DockerTest.runtimeconfig.dev.json
+D:\dockertest\AppNetCore\bin\Release\netcoreapp3.1\NetCore.DockerTest.dll
+D:\dockertest\AppNetCore\bin\Release\netcoreapp3.1\NetCore.DockerTest.pdb
+D:\dockertest\AppNetCore\obj\Release\netcoreapp3.1\NetCore.DockerTest.csprojAssemblyReference.cache
+D:\dockertest\AppNetCore\obj\Release\netcoreapp3.1\NetCore.DockerTest.AssemblyInfoInputs.cache
+D:\dockertest\AppNetCore\obj\Release\netcoreapp3.1\NetCore.DockerTest.AssemblyInfo.cs
+D:\dockertest\AppNetCore\obj\Release\netcoreapp3.1\NetCore.DockerTest.csproj.CoreCompileInputs.cache
+D:\dockertest\AppNetCore\obj\Release\netcoreapp3.1\NetCore.DockerTest.dll
+D:\dockertest\AppNetCore\obj\Release\netcoreapp3.1\NetCore.DockerTest.pdb
+D:\dockertest\AppNetCore\obj\Release\netcoreapp3.1\NetCore.DockerTest.genruntimeconfig.cache

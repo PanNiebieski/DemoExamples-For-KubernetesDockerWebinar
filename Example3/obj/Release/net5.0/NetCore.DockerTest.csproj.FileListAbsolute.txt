@@ -1,0 +1,16 @@
+D:\dockertest\appNetCore\bin\Release\net5.0\NetCore.DockerTest.exe
+D:\dockertest\appNetCore\bin\Release\net5.0\NetCore.DockerTest.deps.json
+D:\dockertest\appNetCore\bin\Release\net5.0\NetCore.DockerTest.runtimeconfig.json
+D:\dockertest\appNetCore\bin\Release\net5.0\NetCore.DockerTest.runtimeconfig.dev.json
+D:\dockertest\appNetCore\bin\Release\net5.0\NetCore.DockerTest.dll
+D:\dockertest\appNetCore\bin\Release\net5.0\ref\NetCore.DockerTest.dll
+D:\dockertest\appNetCore\bin\Release\net5.0\NetCore.DockerTest.pdb
+D:\dockertest\appNetCore\obj\Release\net5.0\NetCore.DockerTest.csprojAssemblyReference.cache
+D:\dockertest\appNetCore\obj\Release\net5.0\NetCore.DockerTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\dockertest\appNetCore\obj\Release\net5.0\NetCore.DockerTest.AssemblyInfoInputs.cache
+D:\dockertest\appNetCore\obj\Release\net5.0\NetCore.DockerTest.AssemblyInfo.cs
+D:\dockertest\appNetCore\obj\Release\net5.0\NetCore.DockerTest.csproj.CoreCompileInputs.cache
+D:\dockertest\appNetCore\obj\Release\net5.0\NetCore.DockerTest.dll
+D:\dockertest\appNetCore\obj\Release\net5.0\ref\NetCore.DockerTest.dll
+D:\dockertest\appNetCore\obj\Release\net5.0\NetCore.DockerTest.pdb
+D:\dockertest\appNetCore\obj\Release\net5.0\NetCore.DockerTest.genruntimeconfig.cache

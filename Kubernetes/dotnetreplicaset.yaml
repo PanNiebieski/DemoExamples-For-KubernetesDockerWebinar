@@ -1,0 +1,24 @@
+apiVersion: v1
+kind: ReplicaSet
+metadata:
+  name: dotnetreplicaset
+spec:
+  replicas: 3
+  selector:
+    app: happylittleapp
+  template:
+    metadata:
+      name: myapp
+      labels:
+        app: happylittleapp
+    spec:
+      containers:
+        - name: dotnetservice
+          image: myaspnetcorefornet5service
+          ports:
+            - containerPort: 90
+      
+
+
+
+

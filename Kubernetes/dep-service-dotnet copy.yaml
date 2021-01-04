@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: happy-hello-world-donet
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: happylittleapp
+  template:
+    metadata:
+      labels:
+        app: happylittleapp
+    spec:
+      containers:
+      - name: dotnetservice
+        image: myaspnetcorefornet5service
+        imagePullPolicy: IfNotPresent
+        ports:
+          - containerPort: 90
+        resources:
+          limits:
+            cpu: 1000m
+            memory: 1Gi
+          requests:
+            cpu: 500m
+            memory: 1Gi

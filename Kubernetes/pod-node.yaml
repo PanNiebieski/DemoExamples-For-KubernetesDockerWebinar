@@ -1,0 +1,21 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: happylittlenodepod
+  labels:
+    name: happylittleapp
+spec:
+  containers:
+  - name: nodeservice
+    image: mynodeservice
+    imagePullPolicy: IfNotPresent
+    ports :
+      - containerPort: 1111
+    resources:
+        limits:
+          cpu: 1000m
+          memory: 1Gi
+        requests:
+          cpu: 500m
+          memory: 1Gi
+
